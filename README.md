@@ -19,7 +19,7 @@ which we will use for this class (in this homework, we will use a free
   running.  Make it a habit to stop your services when not in use.  If you run out of credits,
   there's not much we (the staff) can do.**</span>
 
-## Sign up and setup the OS
+## Sign up and setup the OS, this is a change
 
 **Signup**
 
